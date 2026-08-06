@@ -434,7 +434,9 @@ aiohttp==3.9.5              # Async HTTP
 - [ ] Ready for demo!
 
 ---
-
+Future work:-
+need to improve the duplication detection
+need to improve the acessing of the TXT files 
 ## 🎉 You're All Set!
 
 Your production-ready ATS Resume Analyzer bot is ready to go. Start analyzing resumes! 🚀
